@@ -1,4 +1,5 @@
 <img align='center' src="https://media-exp1.licdn.com/dms/image/C4D16AQHKCEyHLSBfqg/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=VmmQscemJOkUaT5ep1FvEM9S0FhTE91cqvV8Hrvw7Gs">
+
 <h2 align='center'> Hi World, I'm Nick!  🕺 </h2>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm doing right now</img>
@@ -6,7 +7,7 @@
 </em></p>
 
 <p align='center'>
-<a href="https://dribbble.com/nicolasmendes"><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733544.svg" width="100" height="100"></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/nicolasmendes"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733544.svg" width="100" height="100"></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/nicolasmendes"><img width="100" height="100"" src="https://www.flaticon.com/svg/static/icons/svg/145/145799.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nicolas-m-b3b65613a/"><img width="100" height="100" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg"></a>
 </p>
@@ -26,7 +27,7 @@ If you are interested in the prototyping of any website, UI Kit, App or Social M
 
 🦾 Hard Skills: Web design, branding and identity, typography, UI design, UX Design, InDesign, Adobe Suite, Photoshop, Illustrator, Affinity Designer, Affinity Publisher, Adobe Xd, Figma and Python.
 
-🧝‍♂️ Soft Skills: In my spare time you can catch me playing some jRPGs, FFXV, Overwatch or binge-watching some Linux stuff.
+🧝‍♂️ Soft Skills: In my spare time you can catch me playing some jRPGs (Such as Chrono Trigger, Ni No Kuni and Star Ocean), FFXV, Overwatch or binge-watching some Linux stuff.
 
 👋 DON'T HESITATE TO ASK FOR HELP! If you have a project I can help with, please get in touch.
 
