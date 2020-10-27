@@ -1,4 +1,6 @@
-<img align='center' src="https://media-exp1.licdn.com/dms/image/C4D16AQHKCEyHLSBfqg/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=VmmQscemJOkUaT5ep1FvEM9S0FhTE91cqvV8Hrvw7Gs">
+<p align='center'>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHKCEyHLSBfqg/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=VmmQscemJOkUaT5ep1FvEM9S0FhTE91cqvV8Hrvw7Gs" align='center'>
+</p>
 
 <h2 align='center'> Hi World, I'm Nick!  🕺 </h2>
 
