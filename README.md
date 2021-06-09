@@ -5,7 +5,7 @@
 <h2 align='center'> Hi World, I'm Nick!  🕺 </h2>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm doing right now</img>
-<p><em>Design at <a href="https://www.pucpr.br/">PUCPR</a><img></br>Front-end Developer at <a href="https://www.remotish.agency/">Remotish</a><img></a><img></br>Web Graphic Designer at <a href="https://makermockup.com/">Maker Mockup</a><img>
+<p><em>Design at <a href="https://www.pucpr.br/">PUCPR</a><img></br>Front-end Developer at <a href="https://www.remotish.agency/">Remotish</a> a HubSpot Agency<img></a><img>
 </em></p>
 
 <p align='center'>
