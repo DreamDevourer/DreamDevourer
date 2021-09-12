@@ -9,9 +9,9 @@
 </em></p>
 
 <p align='center'>
-<a href="https://dribbble.com/nicolasmendes"><img src="https://brandslogos.com/wp-content/uploads/images/dribbble-icon-logo-vector.svg" width="100" height="100"></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/nicolasmendes"><img width="100" height="100"" src="https://www.flaticon.com/svg/static/icons/svg/145/145799.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nicolas-m-b3b65613a/"><img width="100" height="100" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg"></a>
+<a href="https://dribbble.com/nicolasmendes"><img src="https://raw.githubusercontent.com/DreamDevourer/DreamDevourer/main/ICONS_GIT/Dribbble.svg" width="100" height="100"></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/nicolasmendes"><img width="100" height="100"" src="https://github.com/DreamDevourer/DreamDevourer/blob/main/ICONS_GIT/Behance.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nicolas-m-b3b65613a/"><img width="100" height="100" src="https://raw.githubusercontent.com/DreamDevourer/DreamDevourer/main/ICONS_GIT/LinkedIn.svg"></a>
 </p>
 
 
