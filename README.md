@@ -17,19 +17,21 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I’m a multi-disciplinary designer who’s delivered creative and engaging solutions across Web design, UI/UX Design, digital and social media.
+Hey world! I'm Nick 🖖
 
-My work can be seen at Maker Mockup, the largest mockups e-commerce in Brazil, the whole site is developed and designed by me with great care, quality and functionality, in addition to being fair to SEO.
+I’m a multi-disciplinary product designer who’s delivered creative and engaging solutions across web design, Front-end Development, UI/UX design research and mobile applications. I'm more introvert than extrovert, I really have found an appreciation for working remotely but still connecting with lots of people daily. Yet, I still prefer “cameras off” most days so I can pace around the house - lol that works a lot to think about good solutions!
 
-I have solid knowledge in prototyping and UI / UX interface design and I am able to develop them with a very organized and productive front-end, I do full-stack dev work.
+My work can be seen at Remotish Agency website, that I designed and managed part of this huge project with a great and professional team! Another good place to see my work is at Maker Mockup, the largest mockups e-commerce in Brazil, the whole site is developed and designed by me with great care, quality and functionality. I accumulated remote international experience through many projects in United States, Germany, Mexico and Brazil. I really appreciate flexible work and different challenges in a fast-paced, high tech environment.
 
-My work has also been featured in Dribbble and Behance with my UI Kits that I develop and sell. At the moment I design themes for HubSpot Marketplace and Remotish.
+I love the process of building something new as well as finding and developing awesome people, be it my clients, employees, or networking relationships.
 
-If you are interested in the prototyping of any website, UI Kit, App or Social Media, please contact me via email.
+I have solid professional experience acquired in services, B2B and agency companies in the technology, development, design and WebOps areas.
 
-🦾 Hard Skills: Web design, branding and identity, typography, UI design, UX Design, InDesign, Adobe Suite, Photoshop, Illustrator, Affinity Designer, Affinity Publisher, Adobe Xd, Figma and Python.
+My work has also been featured in GitHub, HubSpot DevPost, Dribbble and Behance with my WebOps Design and development for HubSpot ecosystem.
 
-🧝‍♂️ Soft Skills: In my spare time you can catch me playing some jRPGs (Such as Chrono Trigger, Ni No Kuni and Star Ocean), FFXV, Overwatch or binge-watching some Linux stuff.
+I also have Design graduation, Inbound marketing knowledge, Front-end development practical application and course, besides several Agile development courses and improvement courses in the areas of Design, Product Design, IT technologies, Remote Work Foundations and theirs convergence.
+
+If you are interested in the prototyping of any website, Design System or App, please contact me!
 
 👋 DON'T HESITATE TO ASK FOR HELP! If you have a project I can help with, please get in touch.
 
