@@ -1,13 +1,8 @@
-<p align='center'>
-<img src="https://i.imgur.com/tU3VYOb.png" align='center'>
-</p>
-
 <h2 align='center'> Hi World, I'm Nick!  🕺 </h2>
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm doing right now</img>
-<p><em>Design at <a href="https://www.pucpr.br/">PUCPR</a> University<img></br>Sr. Front-end Developement Strategist at <a href="https://www.remotish.agency/">Remotish</a> a HubSpot Agency<img></a><img>
-</em></p>
-
+<p align='center'><em>I'm a Product Designer & Prompt Engineer
+</em><br>I’m a naturally curious product designer with an appetite for coding, motion design, AI tools and tasty food. I make HubSpot Awesome!</p>
+<p></p>
+<br><br><br><br>
 <p align='center'>
 <a href="https://dribbble.com/nicolasmendes"><img src="https://raw.githubusercontent.com/DreamDevourer/DreamDevourer/main/ICONS_GIT/Dribbble.svg" width="100" height="100"></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/nicolasmendes"><img width="100" height="100"" src="https://github.com/DreamDevourer/DreamDevourer/blob/main/ICONS_GIT/Behance.png?raw=true"></a>&nbsp;&nbsp;
